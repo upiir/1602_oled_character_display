@@ -1,4 +1,4 @@
-# Smooth 16x2 gauges without custom character 
+# Smooth 16x2 gauges without custom characters 
 
 Simple design for 16x2 OLED Character Display using the US2066 chip
 
@@ -20,34 +20,47 @@ My other videos with 16x2 character display:
 
 ![THUMB_flat_oled_displays](https://user-images.githubusercontent.com/117754156/233292155-ab2b0920-7f6e-40bb-9446-06afad1cd234.jpg)
 
+
+
+Small animations:
+
+
+![flat_oled_16x2_gauge_blue_green_SHORT](https://user-images.githubusercontent.com/117754156/233304668-3ec73beb-67a1-4eba-bf58-ab03eb7a3044.gif)
+
+![flat_oled_16x2_gauge_red_white_SHORT](https://user-images.githubusercontent.com/117754156/233304729-8e08a146-a7c7-4a80-bb4f-bc1b86ad8e5f.gif)
+
+
+
+
+
 Screenshots from the video:
 
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_11_31;26)](https://user-images.githubusercontent.com/117754156/233292543-79c145f9-3f34-4cde-ad5f-5bf458d7cda3.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_11_48;06)](https://user-images.githubusercontent.com/117754156/233292571-d0913fb6-6557-4039-97e4-962c46c3945a.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_14_49;22)](https://user-images.githubusercontent.com/117754156/233292596-a16463dd-df70-4655-ba35-4ef50f8dbcd1.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_15_44;27)](https://user-images.githubusercontent.com/117754156/233292631-a2f819e5-0b51-434e-bc05-95f1a12f1ebd.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_15_52;08)](https://user-images.githubusercontent.com/117754156/233292656-483536e5-3bbe-43cc-8ba0-61be9e639c80.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_16_04;13)](https://user-images.githubusercontent.com/117754156/233292667-2e7bd446-8c23-40ff-85f2-b3ed80b81808.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_16_16;09)](https://user-images.githubusercontent.com/117754156/233292686-d8e31943-9dba-46f0-95bb-43e48499299f.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_00;22)](https://user-images.githubusercontent.com/117754156/233292703-92a9cb4d-6e9a-4300-8407-053f33e2e684.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_04;03)](https://user-images.githubusercontent.com/117754156/233292727-efbd06ce-531b-405e-945a-5b6c76b98250.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_11;24)](https://user-images.githubusercontent.com/117754156/233292743-cc87fe09-84f5-4b5f-96e1-ae39be0c21a0.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_17;23)](https://user-images.githubusercontent.com/117754156/233292765-8d00f111-f7b3-4101-b2ab-41a1f379bf6c.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_01_48;02)](https://user-images.githubusercontent.com/117754156/233292775-b7c43494-484b-473b-9ad4-5a5afdc4f38a.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_02_33;25)](https://user-images.githubusercontent.com/117754156/233292791-efa20097-15f8-4dc8-a294-dae614aa89c8.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_03_23;13)](https://user-images.githubusercontent.com/117754156/233292816-4053f857-051c-46de-896e-53da17b47f4d.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_03_34;29)](https://user-images.githubusercontent.com/117754156/233292832-c0085ee5-e5cd-4d96-aa7c-0eca4f55b873.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_03_46;00)](https://user-images.githubusercontent.com/117754156/233292854-2abf3191-9679-49b4-90b3-f5f915988b71.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_04_23;13)](https://user-images.githubusercontent.com/117754156/233292865-bc19c2d2-e0b3-419e-bde4-8c1c1b3aa55f.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_04_40;15)](https://user-images.githubusercontent.com/117754156/233292893-0ab68959-be86-452e-aaea-ca1ada57cc2c.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_18;25)](https://user-images.githubusercontent.com/117754156/233292908-a11245bf-365d-42d3-a2f1-8c089c090501.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_33;13)](https://user-images.githubusercontent.com/117754156/233292915-c0b482f8-a8c2-4af6-8fee-479b20854cc5.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_34;24)](https://user-images.githubusercontent.com/117754156/233292932-e5d8ead0-3c34-4d7a-bc14-e8104db34485.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_39;04)](https://user-images.githubusercontent.com/117754156/233292950-1b40296e-d2a5-423f-b563-082802280c84.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_06_07;21)](https://user-images.githubusercontent.com/117754156/233292959-5fbfdd89-4b07-4a00-99d2-062b736d812b.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_07_02;07)](https://user-images.githubusercontent.com/117754156/233292976-6ccb2b1a-9513-49eb-a9ed-bb9c4f385fa5.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_08_48;10)](https://user-images.githubusercontent.com/117754156/233292992-99abb33a-6779-4c01-a775-41985f806f22.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_09_05;28)](https://user-images.githubusercontent.com/117754156/233293010-f8425bde-1583-4225-a37d-416075dcffaa.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_09_20;14)](https://user-images.githubusercontent.com/117754156/233293029-753ea764-7f9d-4218-9d50-7a773730723b.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_09_44;21)](https://user-images.githubusercontent.com/117754156/233293041-5d2e31a7-7fc4-432a-8c2e-76978ef2a2a4.jpg)
-![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_10_51;23)](https://user-images.githubusercontent.com/117754156/233293053-bebab910-f85c-4d15-9637-20ad403b5d82.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_00;22)](https://user-images.githubusercontent.com/117754156/233304329-0482db79-45c3-4ad7-9f7b-0fd9a2992580.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_04;03)](https://user-images.githubusercontent.com/117754156/233304341-1b8b95de-2da7-43e1-9f16-f242260bd7d5.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_11;24)](https://user-images.githubusercontent.com/117754156/233304348-743ce39c-41e5-4c0d-abc1-bc3c8d09db1a.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_00_17;23)](https://user-images.githubusercontent.com/117754156/233304350-45be2db5-edb8-4586-85f7-742eb2343831.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_01_48;02)](https://user-images.githubusercontent.com/117754156/233304355-611a74b2-7213-49ca-a940-30e89f7a8f1c.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_02_33;25)](https://user-images.githubusercontent.com/117754156/233304363-e038f688-030c-473d-80fa-9fab6005290d.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_03_23;13)](https://user-images.githubusercontent.com/117754156/233304365-4d4ac76e-ceb8-4526-9dc6-054b077a6c71.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_03_34;29)](https://user-images.githubusercontent.com/117754156/233304367-b1626668-02bd-4d38-872c-063fbcdc95b1.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_03_46;00)](https://user-images.githubusercontent.com/117754156/233304371-63f53db7-b851-4eaf-9fd7-5b8553ea1b94.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_04_23;13)](https://user-images.githubusercontent.com/117754156/233304373-e109660c-4ebf-4b44-9440-e231db652abd.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_04_40;15)](https://user-images.githubusercontent.com/117754156/233304375-408c3013-fe32-48f0-a243-08caeef59fdb.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_18;25)](https://user-images.githubusercontent.com/117754156/233304382-83a5252e-8bf0-4c50-8f9e-a2da6ae9e789.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_33;13)](https://user-images.githubusercontent.com/117754156/233304386-6a8aee39-b22e-4570-a035-b7575950756b.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_34;24)](https://user-images.githubusercontent.com/117754156/233304389-76fb536e-b5af-4066-a69d-c7749e91a5f3.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_05_39;04)](https://user-images.githubusercontent.com/117754156/233304392-706120bd-4d72-4d96-9a56-b48890a5436a.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_06_07;21)](https://user-images.githubusercontent.com/117754156/233304396-fa48089f-fa3e-450d-ae22-771041c6240c.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_07_02;07)](https://user-images.githubusercontent.com/117754156/233304403-3ef680b4-ad56-4e75-95d5-267df2112542.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_08_48;10)](https://user-images.githubusercontent.com/117754156/233304410-2d4c2100-4c9d-444a-af9f-296c034af9ff.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_09_05;28)](https://user-images.githubusercontent.com/117754156/233304416-a90c8170-0478-4de5-a73c-c6bfae6d8c35.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_09_20;14)](https://user-images.githubusercontent.com/117754156/233304422-f1b125d9-bc43-4e01-a2ea-171abcbb3fd2.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_09_44;21)](https://user-images.githubusercontent.com/117754156/233304424-325598a7-6124-46a9-9cae-ad84a85cb8fa.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_10_51;23)](https://user-images.githubusercontent.com/117754156/233304428-e8ecf0da-fb03-43ed-8269-b4cfd7d9688f.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_11_31;26)](https://user-images.githubusercontent.com/117754156/233304432-2a3d9f26-ef37-4e79-9ea5-ab14f890acad.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_11_48;06)](https://user-images.githubusercontent.com/117754156/233304435-284c8454-e80d-45d9-af77-4b51bdfb2b39.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_14_49;22)](https://user-images.githubusercontent.com/117754156/233304440-79c0b11b-6d2b-43f8-bb4e-6354255df389.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_15_44;27)](https://user-images.githubusercontent.com/117754156/233304446-05b1a773-09db-4009-8ff8-ad5863af202a.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_15_52;08)](https://user-images.githubusercontent.com/117754156/233304451-85329ded-c5ab-4ceb-92ba-f6c2f25908ae.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_16_04;13)](https://user-images.githubusercontent.com/117754156/233304455-c2929678-0c8d-4555-8f4a-f77288477dc6.jpg)
+![CAMTASIA_lcd_smooth_gauge_no_special (Time 0_16_16;09)](https://user-images.githubusercontent.com/117754156/233304458-8398cad7-3456-4fbf-9ee7-ad2249e5ad45.jpg)
